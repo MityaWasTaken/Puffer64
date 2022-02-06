@@ -1,0 +1,1 @@
+qemu-system-x86_64 -cdrom /Users/dmitrinezvigin/Desktop/kernel/dist/x86_64/kernel.iso 
