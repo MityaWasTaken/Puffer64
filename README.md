@@ -1,2 +1,2 @@
 # PufferOS_system_kernel
-System Kernel for PufferOS with support for the C programming lanugage. repo comes with the iso file and object files
+System Kernel for PufferOS with support for the C programming lanugage. repo comes with the iso file and object files incase there is an error or bug... iso file will always boot to perfection.
