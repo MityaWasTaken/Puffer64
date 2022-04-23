@@ -1,2 +1,2 @@
-# Horrible codebase. Currently rewriting as harthOS. Don't even bother touching this
-There is a triple fault in my interrupt descripter table that I have no idea how to fix. Please pr this w/ a fix becuase I am totally lost.
+# Horrible codebase. Currently rewriting as harthOS. Don't even bother touching this. 
+Since this was my first operating system, and I don't wanna delete it dispite how EMBARRASING it is... I'll just archive it.
